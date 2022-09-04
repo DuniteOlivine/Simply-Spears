@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "simplyspears:items/diamond_spear"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        95,
+        0
+      ],
+      "translation": [
+        8,
+        2,
+        -2
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}
